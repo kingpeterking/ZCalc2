@@ -8,6 +8,7 @@ public:
 	LongNumber(char *);							// create Long Number from string with or without +/- at start
 	LongNumber(const char *);					// create Long Number from string with or without +/- at start
 	~LongNumber();								// destructor
+	// Git test
 
 	//Set Values
 	void SetLongNumber(int AValue, int APos);					// set value at position in Long Number
